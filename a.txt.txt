@@ -1,3 +1,14 @@
 The data bus is used to transfer data amongst the differrent internal coponents.
 The data bus is used to transfer data amongst the differrent internal coponents.
 
+number:<input id=t1 name=n1> <br>
+<input type=button value=sqr onclick=a1()>
+<br>
+<output id=o1></output>
+<script>
+function a1()
+{a=t1.value
+b=a*a
+o1.value="SQR:"+ b
+}
+</script>
