@@ -1,0 +1,1 @@
+The data bus is used to transfer data amongst the differrent internal coponents.
